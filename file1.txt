@@ -2,3 +2,4 @@ some code
 line2
 line3 ..
 master & feature1
+devtext
